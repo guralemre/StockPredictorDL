@@ -10,6 +10,12 @@ StockPredictorDL is a deep learning-based web application for predicting the nex
 - Visualizes real and predicted prices
 - User-friendly web interface with Streamlit
 
+## Screenshot from App
+
+![StockPredictorDL Screenshot](image.png)
+
+
+
 ## Project Structure
 ```
 StockPredictorDL/
@@ -49,6 +55,7 @@ StockPredictorDL/
    - Select the date range
    - Click the "Predict" button to fetch data and predict the next closing price
    - View the results and the price chart
+
 
 ## Model Details
 - **Architecture:**
