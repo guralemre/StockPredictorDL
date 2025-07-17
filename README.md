@@ -37,7 +37,7 @@ StockPredictorDL/
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/guralemre/StockPredictorDL.git
    cd StockPredictorDL
    ```
 2. **Install dependencies:**
